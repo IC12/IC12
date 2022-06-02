@@ -17,3 +17,7 @@
  
   ![Snake animation](https://github.com/IC12/IC12/blob/output/github-contribution-grid-snake.svg) 
 </div>
+
+ ##
+  
+- References by: Canal Rafaella Ballerini https://www.youtube.com/watch?v=TsaLQAetPLU
