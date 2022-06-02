@@ -20,4 +20,4 @@
 
  ##
   
-- References by: Canal Rafaella Ballerini https://www.youtube.com/watch?v=TsaLQAetPLU
+- Style as reference: Canal Rafaella Ballerini https://www.youtube.com/watch?v=TsaLQAetPLU
