@@ -2,12 +2,6 @@
 - 👀 I’m interested in develop software.
 - 🌱 I’m currently learning programming.
 - 💞️ I’m looking to collaborate on projects.
-
-
-<div align="left">
-  <a href="https://github.com/IC12">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ic12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
   
   ##
  
@@ -18,6 +12,7 @@
    <img align="center" alt="Iara-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
    <img align="center" alt="Iara-J" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
    <img align="center" alt="Iara-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="Iara-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> 
    <img align="center" alt="Iara-MSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
    <img align="center" alt="Iara-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">                                            
  </div>
