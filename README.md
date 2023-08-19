@@ -22,14 +22,8 @@
    <img align="center" alt="Iara-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
  </div>
           
-  ##  
+##  
   
 <div> 
   <a href="https://www.linkedin.com/in/iara-camargos-620007213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-![Snake animation](https://github.com/IC12/IC12/blob/output/github-contribution-grid-snake.svg) 
-
- ##
-  
-- Style as reference: Canal Rafaella Ballerini https://www.youtube.com/watch?v=TsaLQAetPLU
