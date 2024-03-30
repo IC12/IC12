@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Iara Camargos!
 - 👀 I’m interested in develop software.
-- 🌱 I’m currently learning programming.
+- 🌱 Dev aware that learning is continuous.
 - 💞️ I’m looking to collaborate on projects.
   
   ##
