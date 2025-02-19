@@ -6,6 +6,7 @@
   ##
  
  <div style="display: inline_block"><br>
+   <img aligh="center" alt="Iara-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
    <img align="center" alt="Iara-GitLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg">
    <img align="center" alt="Iara-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
    <img align="center" alt="Iara-DN" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
